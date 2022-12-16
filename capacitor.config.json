@@ -1,0 +1,6 @@
+{
+  "appId": "lucas.local",
+  "appName": "nuxt-firebase-auth-google-facebook",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
