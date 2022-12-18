@@ -2,7 +2,7 @@
 Como rodar o APP
 Opção 1:
 Implementação com base no Bootcamp
-tecnologia: Nuxtjs/capacitor para android
+Vue/Nuxtjs para android
 
 NODE VERSION @16
 $ npm install
