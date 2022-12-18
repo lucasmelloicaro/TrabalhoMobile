@@ -13,7 +13,6 @@ $ yarn cap add android
 
 
 $ npm run dev
-#  localhost:3000
 
 $ yarn cap open android
 
