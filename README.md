@@ -11,8 +11,9 @@ $ yarn generate
 
 $ yarn cap add android
 
-# serve with hot reload at localhost:3000
+
 $ npm run dev
+#  localhost:3000
 
 $ yarn cap open android
 
